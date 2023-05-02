@@ -54,7 +54,7 @@ function App() {
             className="btn btn-primary mx-2"
             disabled={!selectedBreed}
             onClick={searchByBreed}
-            style={{ color: "#fff", cursor: "pointer" }}
+            style={{ color: "#fff", cursor : "pointer" }}
           >
             Search
           </button>
